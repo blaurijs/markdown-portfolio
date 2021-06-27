@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+In terms of *specialty beers*, **barrel aging** good beers can improve the taste enormously. My favored barrels are **_bourbon_ and _rum_**, but *__cognac__* can work out really nicely as well.
